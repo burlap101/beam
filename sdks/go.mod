@@ -28,7 +28,7 @@ require (
 	cloud.google.com/go/datastore v1.10.0
 	cloud.google.com/go/profiler v0.3.1
 	cloud.google.com/go/pubsub v1.28.0
-	cloud.google.com/go/spanner v1.43.0
+	cloud.google.com/go/spanner v1.44.0
 	cloud.google.com/go/storage v1.29.0
 	github.com/aws/aws-sdk-go-v2 v1.17.3
 	github.com/aws/aws-sdk-go-v2/config v1.18.11
@@ -52,7 +52,6 @@ require (
 	github.com/xitongsys/parquet-go v1.6.2
 	github.com/xitongsys/parquet-go-source v0.0.0-20220315005136-aec0fe3e777c
 	go.mongodb.org/mongo-driver v1.11.1
-	golang.org/x/exp v0.0.0-20230206171751-46f607a40771
 	golang.org/x/net v0.5.0
 	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
 	golang.org/x/sync v0.1.0
@@ -64,7 +63,7 @@ require (
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/retry.v1 v1.0.3
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.1
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 require (
